@@ -1,2 +1,2 @@
-PyQt5
+PyQt5==5.15.0
 python -m pip install pyqt5 --user
