@@ -1,0 +1,2 @@
+PyQt5
+python -m pip install pyqt5 --user
